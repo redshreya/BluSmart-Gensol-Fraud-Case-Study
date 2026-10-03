@@ -1,1 +1,1 @@
-# fraud-case-studies
+# BluSmart-Gensol-Fraud-Case-Study
